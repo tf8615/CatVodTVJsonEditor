@@ -4,4 +4,4 @@
 
 ### PC Web版
 
-https://zhixc.github.io/CatVodTVJsonEditor/
+https://tf8615.github.io/CatVodTVJsonEditor/
